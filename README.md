@@ -1,6 +1,6 @@
 # HJCategory
 
-整合iOS采用的Category，包含：
+整合iOS常用的Category，包含：
 
 - UIBarButtonItem
 - UIStoryboard
